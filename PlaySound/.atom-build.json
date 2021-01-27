@@ -1,0 +1,6 @@
+{
+  "cmd": "D:/Sourcemod/scripting/spcomp.exe",
+  "args": [ "-iD:/Sourcemod/scripting/include", "-oC:/Users/ESK0/Desktop/{FILE_ACTIVE_NAME_BASE}.smx", "{FILE_ACTIVE}" ],
+  "sh": false,
+  "cwd": "D:/Sourcemod/scripting/"
+}
